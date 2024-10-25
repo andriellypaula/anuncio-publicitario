@@ -2,11 +2,19 @@ body {
     background-image: linear-gradient(#038bbd ,#027bab ,#026a99 );
     color: #004975
     font-size: 35px;
-{
+}
     
 h1 {
     color: #015a87
-{
+}
 
 h2 {   
-    background-color
+    background-color: #bbdcf2
+    color:#bbdcf2
+}
+
+img (
+width: 500px;
+height: 300px;
+}
+
